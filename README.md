@@ -1,6 +1,6 @@
 # 3D-Cellular-Automata-Architecture
 
-Generative 3D form-finding using Cellular Automata and Python in Grasshopper.
+Generative 3D form generation using Cellular Automata and Python in Grasshopper.
 
 ## Conway's Game of Life in 3D!
 
@@ -17,7 +17,7 @@ Here are the controllable parameters for this logic:
 * **Outputs:** 3D Generative Form
 
 Ultimately, each generated layer is stacked vertically. 🏢
-By changing the Gen0 active cells (initial state) and tweaking the grid dimensions, completely different and unique structural forms take shape.
+By changing the Gen0 active cells (initial state) and tweaking the grid dimensions, completely different and unique spatial forms take shape.
 
 ## 🛠 Tools Used:
 * **Rhinoceros 3D / Grasshopper**
