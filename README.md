@@ -15,7 +15,7 @@ Here are the controllable parameters for this logic:
 * **Outputs:** 3D Generative Form
 
 Ultimately, each generated layer is stacked vertically. 🏢
-By changing the Gen0 active cells (initial state) and tweaking the grid dimensions, completely different and unique spatial forms take shape.
+By changing the Gen0 active cells (initial state) and tweaking the grid dimensions, completely different and unique spatial forms take shape. 🎯
 
 ## 🛠 Tools Used:
 * **Rhinoceros 3D / Grasshopper**
