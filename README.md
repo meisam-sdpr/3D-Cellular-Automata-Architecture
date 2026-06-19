@@ -1,4 +1,4 @@
-# 3D-Cellular-Automata-Architecture
+# 3D Cellular Automata Architecture
 
 **Conway's Game of Life in 3D!**
 
