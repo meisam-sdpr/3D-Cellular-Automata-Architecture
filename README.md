@@ -1,8 +1,6 @@
 # 3D-Cellular-Automata-Architecture
 
-Generative 3D form generation using Cellular Automata and Python in Grasshopper.
-
-## Conway's Game of Life in 3D!
+**Conway's Game of Life in 3D!**
 
 In this project, I built a computational model to translate Conway's "Game of Life" algorithm into a 3D spatial context. The dynamic, complex topology seen in the **video** is the visual output of the algorithm's evolution through stacking consecutive generations. 💡
 
